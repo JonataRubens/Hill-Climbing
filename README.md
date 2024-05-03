@@ -1,3 +1,3 @@
-Hill climbing comes from quality measurement in Depth-First search (a variant of generating and test strategy). It is an optimization strategy that is a part of the local search family.
+A subida de colinas vem da medição de qualidade na pesquisa em profundidade (uma variante da estratégia de geração e teste). É uma estratégia de otimização que faz parte da família da busca local.
 
-It is a fairly straightforward implementation strategy as a popular first option is explored.
+É uma estratégia de implementação bastante simples, uma vez que é explorada uma primeira opção popular
